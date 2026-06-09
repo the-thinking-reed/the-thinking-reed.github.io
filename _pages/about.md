@@ -66,12 +66,10 @@ redirect_from:
 </div>
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCASP 2026</div><img src='images/ICASSP-2026-szy' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCASP 2026</div><img src='images/ICASSP-2026-szy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Z. Song`, N. Jiang, M. He, X. Zhao and T. Guo, "Channel, Trend And Periodic-Wise Representation Learning for Multivariate Long-Term Time Series Forecasting," ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026, pp. 4821-4825, doi: 10.1109/ICASSP55912.2026.11464481. keywords: {Feeds;Antennas;Internet of Things;Protocols;Communication systems;Internet;HTTP;LoRa;Data communication;Pins;Time series forecasting;downsampling;multi-scale dependencies;Transformer},
-
-
+- `Z. Song`, N. Jiang, M. He, X. Zhao and T. Guo, "Channel, Trend And Periodic-Wise Representation Learning for Multivariate Long-Term Time Series Forecasting," ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026, pp. 4821-4825, doi: 10.1109/ICASSP55912.2026.11464481. 
 [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11464481)
 </div>
 </div>
