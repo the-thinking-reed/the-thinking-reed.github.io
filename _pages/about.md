@@ -47,6 +47,15 @@ redirect_from:
 # 📝 Publications
 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCCN 2026</div><img src='images/TCCN-szy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- `Z. Song` et al., "Diffusion-Based Spatio-Temporal Channel Prediction via Non-Stationarity Decoupling," in IEEE Transactions on Cognitive Communications and Networking, vol. 12, pp. 7647-7661, 2026, doi: 10.1109/TCCN.2026.3685404.
+<!-- (JCR:Q2; IF:3.847)   -->
+[[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11488306)
+</div>
+</div>
+---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCOM 2026</div><img src='images/TCOM-26-ljq.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,6 +65,16 @@ redirect_from:
 </div>
 </div>
 
+---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCASP 2026</div><img src='images/ICASSP-2026-szy' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- `Z. Song`, N. Jiang, M. He, X. Zhao and T. Guo, "Channel, Trend And Periodic-Wise Representation Learning for Multivariate Long-Term Time Series Forecasting," ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2026, pp. 4821-4825, doi: 10.1109/ICASSP55912.2026.11464481. keywords: {Feeds;Antennas;Internet of Things;Protocols;Communication systems;Internet;HTTP;LoRa;Data communication;Pins;Time series forecasting;downsampling;multi-scale dependencies;Transformer},
+
+
+[[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11464481)
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSIPN 2025</div><img src='images/TSIPN-czh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
