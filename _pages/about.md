@@ -70,9 +70,7 @@ redirect_from:
 -	`J. Li`, H. Xu, Y. Xu, X. Zhao, T. Guo and X. Ling, "The Age of Incorrect Information for Multi-User Link Scheduling Over Fading Channels," ICC 2025 - *IEEE International Conference on Communications*, Montreal, QC, Canada, 2025, pp. 2144-2149, doi: 10.1109/ICC52391.2025.11161794. 
 [[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[网页]](https://dx.doi.org/10.3390/app12199703) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[下载]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
-
+- ~~Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  ~~
 
 <!-- ### 专利
 ---
@@ -108,8 +106,7 @@ redirect_from:
 - Yinfei Xu (Professor)
 - Zhangyao Song (Phd.)
 - Jiaqi Li (Phd.)
-<a href="https://orcid.org/0000-0002-2771-9344" aria-label="View ORCID record - 0000-0002-2771-9344"><img src="images/ORCID-iD_icon_vector.svg" width="18pt" alt="ORCID iD"/>0000-0002-2771-9344</a>  |  
-<a href="https://github.com/Li-Q-keep"><img class="svg" src="images/github-logo.svg" width="18pt">Li-Q-keep</a>
+<a href="https://orcid.org/0000-0002-2771-9344" aria-label="View ORCID record - 0000-0002-2771-9344"><img src="images/ORCID-iD_icon_vector.svg" width="18pt" alt="ORCID iD"/> 0000-0002-2771-9344</a>  |  <a href="https://github.com/Li-Q-keep"><img class="svg" src="images/github-logo.svg" width="18pt"> Li-Q-keep</a>
 
 - Zehao Chen
 - Xiaoyi Chen
