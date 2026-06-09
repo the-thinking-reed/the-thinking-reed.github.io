@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "5311 lab"
-description              : "Information Theory & AI Agent Lab"
+title                    : "5311 Lab"
+description              : "Information Theory + AI Agent"
 repository               : "the-thinking-reed/the-thinking-reed.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,10 +21,10 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 
 # Site Author
 author:
-  name             : "5311 lab"
+  name             : "5311 Lab"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "东南大学"
-  location         : "江苏 南京"
+  bio              : "Southeast University"
+  location         : "Nanjing Jiangsu China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : 
