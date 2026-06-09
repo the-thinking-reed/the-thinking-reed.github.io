@@ -23,7 +23,7 @@ redirect_from:
 
 **徐寅飞老师简介**
 
-徐寅飞，东南大学信息科学与工程学院副研究员、博士生导师。2008年、2016年分别于东南大学获学士和博士学位，2014–2015年赴加拿大麦克马斯特大学访问，2016–2017年于香港中文大学网络编码研究所从事博士后研究。在*IEEE Transactions on Information Theory*、ISIT等顶级期刊会议发表论文40余篇，研究方向聚焦无线通信与统计学习的基础理论问题。
+徐寅飞，东南大学信息科学与工程学院副研究员、博士生导师。2008年、2016年分别于东南大学获学士和博士学位，2014–2015年赴加拿大麦克马斯特大学访问，2016–2017年于香港中文大学网络编码研究所从事博士后研究。在*IEEE Transactions on Information Theory*、ISIT等顶级期刊会议发表论文40余篇，研究方向聚焦无线通信与统计学习的基础理论问题。<a href='https://scholar.google.com/citations?user=jagXzu8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
 
 **我们在做什么？**
 
@@ -33,7 +33,7 @@ redirect_from:
 - **AI Agent** — 打造能自主决策的智能体，也尝试用生成式AI做点有趣的事（比如文化遗产保护）
 
 
- <a href='https://scholar.google.com/citations?user=jagXzu8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+ 
 
 <span class='anchor' id='-xl'></span>
 
