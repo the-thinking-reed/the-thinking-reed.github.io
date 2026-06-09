@@ -106,11 +106,11 @@ redirect_from:
 # 🧑🏻‍💻 Members
 
 - Yinfei Xu (Professor)
+- Zhangyao Song (Phd.)
 - Jiaqi Li (Phd.)
 <a href="https://orcid.org/0000-0002-2771-9344" aria-label="View ORCID record - 0000-0002-2771-9344"><img src="images/ORCID-iD_icon_vector.svg" width="18pt" alt="ORCID iD"/>0000-0002-2771-9344</a>  |  
 <a href="https://github.com/Li-Q-keep"><img class="svg" src="images/github-logo.svg" width="18pt">Li-Q-keep</a>
 
-- Zhangyao Song (Phd.)
 - Zehao Chen
 - Xiaoyi Chen
 - Yunfei Gu
