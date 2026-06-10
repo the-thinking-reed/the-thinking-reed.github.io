@@ -34,7 +34,7 @@ redirect_from:
 - **信息年龄（Age of Information）** — 让信息"保鲜"，优化实时系统中的更新策略与调度机制
 
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-news'></span>
 
 # 🔥 News
 - *2026.02*, 🎉🎉 Welcome **Xiaoyi Chen** join us as a phd.

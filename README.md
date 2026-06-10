@@ -29,83 +29,6 @@
 | Members | 实验室成员及个人链接 | 添加成员、GitHub、ORCID、主页等 |
 | Join Us | 招生与联系方式 | 修改招生说明和联系邮箱 |
 
-## 锚点与导航
-
-首页中的每个导航目标一般由两部分组成：
-
-一是在 `about.md` 中添加锚点：
-
-```html
-<span class='anchor' id='-publications'></span>
-
-# 📝 Publications
-```
-
-二是在 `navigation.yml` 中添加对应导航：
-
-```yml
-main:
-  - title: "Publications"
-    url: "/#-publications"
-```
-
-这里的关键是：`url` 中 `#` 后面的内容必须和 `id` 完全一致。例如：
-
-| 页面部分 | `about.md` 中的锚点 | `navigation.yml` 中的链接 |
-| ---- | ---- | ---- |
-| About Us | `id='about-us'` | `url: "/#about-us"` |
-| News | 建议使用 `id='-news'` | `url: "/#-news"` |
-| Publications | `id='-publications'` | `url: "/#-publications"` |
-| Resources | `id='-resources'` | `url: "/#-resources"` |
-| Members | `id='-members'` | `url: "/#-members"` |
-| Join Us | `id='-join-us'` | `url: "/#-join-us"` |
-
-> 注意：当前文件中 News 部分的锚点写成了 `id='-xl'`，而 `navigation.yml` 中 News 的链接是 `url: "/#-news"`。这会导致顶部导航点击 News 时无法准确跳转。建议把 `about.md` 中 News 前面的锚点改为：
-
-```html
-<span class='anchor' id='-news'></span>
-
-# 🔥 News
-```
-
-## 添加新导航栏目
-
-如果想新增一个栏目，例如 `Projects`，需要同时改两个文件。
-
-在 `about.md` 中添加：
-
-```html
-<span class='anchor' id='-projects'></span>
-
-# 🚀 Projects
-
-这里写项目介绍、项目列表或项目链接。
-```
-
-在 `navigation.yml` 中添加：
-
-```yml
-  - title: "Projects"
-    url: "/#-projects"
-```
-
-完整示例：
-
-```yml
-main:
-  - title: "About Us"
-    url: "/#about-us"
-
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Projects"
-    url: "/#-projects"
-
-  - title: "Publications"
-    url: "/#-publications"
-```
-
 ## 修改实验室介绍
 
 实验室介绍主要位于 `about.md` 的 About Us 部分。可以直接修改普通 Markdown 文本。
@@ -262,6 +185,61 @@ News 建议按时间倒序排列，最新的放在最上面。
 ##  Join Us修改
 
 `Join Us` 部分适合写招生方向、实验室风格、联系邮箱等。
+
+## 锚点与导航
+
+首页中的每个导航目标一般由两部分组成：
+
+一是在 `about.md` 中添加锚点：
+
+```html
+<span class='anchor' id='-publications'></span>
+
+# 📝 Publications
+```
+
+二是在 `navigation.yml` 中添加对应导航：
+
+```yml
+main:
+  - title: "Publications"
+    url: "/#-publications"
+```
+
+这里的关键是：`url` 中 `#` 后面的内容必须和 `id` 完全一致。例如：
+
+| 页面部分 | `about.md` 中的锚点 | `navigation.yml` 中的链接 |
+| ---- | ---- | ---- |
+| About Us | `id='about-us'` | `url: "/#about-us"` |
+| Members | `id='-members'` | `url: "/#-members"` |
+| Join Us | `id='-join-us'` | `url: "/#-join-us"` |
+
+```html
+<span class='anchor' id='-news'></span>
+
+# 🔥 News
+```
+
+## 添加新导航栏目
+
+如果想新增一个栏目，例如 `Projects`，需要同时改两个文件。
+
+在 `about.md` 中添加：
+
+```html
+<span class='anchor' id='-projects'></span>
+
+# 🚀 Projects
+
+这里写项目介绍、项目列表或项目链接。
+```
+
+在 `navigation.yml` 中添加：
+
+```yml
+  - title: "Projects"
+    url: "/#-projects"
+```
 
 ## 常见链接写法
 
