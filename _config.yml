@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "5311 Lab"
 description              : "Information Theory + AI Agent"
-repository               : "the-thinking-reed/the-thinking-reed.github.io"
+repository               : "the-thinking-reed/5311lab"
 google_scholar_stats_use_cdn : false
 
 # google analytics
