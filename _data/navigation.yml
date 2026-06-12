@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Us"
-    url: "/#about-us"
+    url: "/5311lab/#about-us"
 
   - title: "News"
-    url: "/#-news"
+    url: "/5311lab/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/5311lab/#-publications"
 
   # - title: "Rewards"
-  #   url: "/#-rewards"
+  #   url: "/5311lab/#-rewards"
 
   - title: "Resources"
-    url: "/#-resources"
+    url: "/5311lab/#-resources"
 
   - title: "Members"
-    url: "/#-members"
+    url: "/5311lab/#-members"
 
   - title: "Join Us"
-    url: "/#-join-us"
+    url: "/5311lab/#-join-us"
